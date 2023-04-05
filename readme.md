@@ -4,3 +4,4 @@
 版本4（第二次在github上修改代码，然后在vscode fetch）
 版本5（从分支切换回主分支，尝试是否能正常Pull）
 版本6 (再一次尝试main分支的fetch与diff方法)
+版本7 (再一次尝试main分支的push方法)
